@@ -9,3 +9,4 @@ This repository contains my assignments
 [Python- exam] https://github.com/MikeBollaan/assignments/blob/master/exam_june_7_2018.ipynb
 
 [Exams September] https://github.com/JurreSpit/assignments/blob/master/exam_Sep_21_2018.ipynb
+[Exam 2] https://github.com/JurreSpit/assignments/blob/master/exam_2_student.ipynb
