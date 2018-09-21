@@ -7,3 +7,5 @@ This repository contains my assignments
 [graded assignment 2](https://github.com/JurreSpit/assignments/blob/master/http/localhost-8888/notebooks/Downloads/Graded_assignment_2.ipynb)
 [R- exam] https://github.com/MikeBollaan/assignments/blob/master/Exam_student.ipynb
 [Python- exam] https://github.com/MikeBollaan/assignments/blob/master/exam_june_7_2018.ipynb
+
+[Exams September] https://github.com/JurreSpit/assignments/blob/master/exam_Sep_21_2018.ipynb
